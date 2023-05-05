@@ -1,7 +1,5 @@
 # CTAGDRC (CTAG Dynamic Range Compressor)
-Computer Music: Languages and Systems
-
-Homework 2 - Group 3 - La Lobby
+## Homework 2 - Group 3 - La Lobby
 
 
 
