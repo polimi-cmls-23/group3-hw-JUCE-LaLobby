@@ -8,11 +8,9 @@ The selected JUCE plugin is "CTAGDRC" (i.e. CTAG Dynamic Range Compressor), by p
 The **CTAG Dynamic Range Compressor** is a VST3 plugin, built to be an easy-to-use, good-sounding tool, well suited for any kind of application.
 The topology chosen by the author of the plugin is the feedforward topology, resembling the one of an analog VCA-Compressor.
 
-This is the **GUI** of the plugin:
-
 ![screenshot of the plugin](img/CTAGDRC_Snap.png)
 
-From the graphical interface we can see these parameters that can be set:
+From the graphical interface we can see the parameters that can be set:
 - Attack and Release
 - Knee
 - Ratio
